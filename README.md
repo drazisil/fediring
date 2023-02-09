@@ -1,2 +1,2 @@
 # fediring
- Web rings in the Rediverse
+ Web rings in the Fediverse
