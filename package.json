@@ -26,7 +26,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "lint": "lint-staged"
   },
   "author": {
     "name": "Drazi Crendraven"
@@ -34,6 +35,8 @@
   "type": "module",
   "devDependencies": {
     "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "lint-staged": "^13.1.1",
     "prettier": "2.8.4"
   },
   "dependencies": {
@@ -43,5 +46,12 @@
     "pug": "^3.0.2",
     "robots-parser": "^3.0.0"
   },
-  "prettier": {}
+  "prettier": {
+    "extends": [
+      "prettier"
+    ]
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  }
 }
