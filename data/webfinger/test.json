@@ -1,0 +1,11 @@
+{
+	"subject": "acct:test@mc.drazisil.com",
+
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://mc.drazisil.com/actor"
+		}
+	]
+}
