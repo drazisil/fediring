@@ -42,7 +42,7 @@
   "dependencies": {
     "@small-tech/https": "5.2.0",
     "body-parser": "1.20.3",
-    "express": "4.21.1",
+    "express": "4.21.2",
     "pug": "3.0.3",
     "robots-parser": "3.0.1"
   },
