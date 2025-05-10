@@ -40,7 +40,7 @@
     "prettier": "3.5.3"
   },
   "dependencies": {
-    "@small-tech/https": "5.3.2",
+    "@small-tech/https": "5.4.0",
     "body-parser": "2.2.0",
     "express": "5.1.0",
     "pug": "3.0.3",
