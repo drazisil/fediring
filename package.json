@@ -36,7 +36,7 @@
   "devDependencies": {
     "eslint": "9.36.0",
     "eslint-config-prettier": "10.1.8",
-    "lint-staged": "16.2.0",
+    "lint-staged": "16.2.1",
     "prettier": "3.6.2"
   },
   "dependencies": {
