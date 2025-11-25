@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@small-tech/https": "5.4.0",
-    "body-parser": "2.2.0",
+    "body-parser": "2.2.1",
     "express": "5.1.0",
     "pug": "3.0.3",
     "robots-parser": "3.0.1"
