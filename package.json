@@ -34,7 +34,7 @@
   },
   "type": "module",
   "devDependencies": {
-    "eslint": "10.1.0",
+    "eslint": "10.2.0",
     "eslint-config-prettier": "10.1.8",
     "lint-staged": "16.4.0",
     "prettier": "3.8.1"
